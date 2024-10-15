@@ -1,7 +1,7 @@
 ﻿using BepInEx;
 using BepInEx.Configuration;
 
-namespace BioScannerFix.BepInEx {
+namespace SilentShotFix.BepInEx {
     public static partial class ConfigManager {
         public static ConfigFile configFile;
 

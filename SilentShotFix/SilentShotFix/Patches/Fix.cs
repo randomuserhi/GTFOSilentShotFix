@@ -2,7 +2,7 @@
 using HarmonyLib;
 using SNetwork;
 
-namespace BioScannerFix {
+namespace SilentShotFix {
     [HarmonyPatch]
     internal static class Fix {
         private static ItemEquippable? oldItem;

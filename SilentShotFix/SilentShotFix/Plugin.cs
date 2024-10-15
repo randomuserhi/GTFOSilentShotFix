@@ -3,7 +3,7 @@ using BepInEx;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 
-namespace BioScannerFix.BepInEx;
+namespace SilentShotFix.BepInEx;
 
 [BepInPlugin(Module.GUID, Module.Name, Module.Version)]
 public class Plugin : BasePlugin {

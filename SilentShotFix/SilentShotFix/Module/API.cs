@@ -1,11 +1,11 @@
 ﻿using BepInEx.Logging;
-using BioScannerFix.BepInEx;
+using SilentShotFix.BepInEx;
 
-namespace BioScannerFix.BepInEx {
+namespace SilentShotFix.BepInEx {
     // REMEMBER TO SET THESE => otherwise program just wont work lmao
     public static class Module {
-        public const string GUID = "randomuserhi.BioScannerFix";
-        public const string Name = "BioScannerFix";
+        public const string GUID = "randomuserhi.SilentShotFix";
+        public const string Name = "SilentShotFix";
         public const string Version = "0.0.1";
     }
 }
